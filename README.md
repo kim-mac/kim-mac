@@ -14,6 +14,7 @@ Master’s student in Information Systems at the University of Texas at Arlingto
 * 📊 **[Pulseboard](https://github.com/kim-mac/Pulse)** - A real-time multi-agent platform that monitors, analyzes CSV and answers follow-up questions.
 * 🌐 **[Decentralized AI Inference Network](https://github.com/kim-mac/Decentralized-AI-Inference-Network)** - Prototype of a decentralized peer-to-peer AI inference system.
 * 🧠 **[Cognition](https://github.com/kim-mac/Cognition)** - A local, open-source cognitive layer for AI agents.
+* 🔀 **[ContextCarry](https://github.com/kim-mac/ContextCarry)** -Multi-model AI interface that auto-switches models at context limits and synthesizes consensus answers from all models simultaneously.
 * 🏎️ **[Racing Game with Reinforcement Learning](https://github.com/kim-mac/Racing-game-using-RL)** - 2D car racing game where an AI agent learns to drive using Deep Q-Learning (DQN), no manual instructions.
 * 🔬 **[AI-Dependency-Hallucination](https://github.com/kim-mac/AI-Dependency-Hallucination-Benchmark)** - Benchmarks whether coding agents verify dependencies before using them.
 
