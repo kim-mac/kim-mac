@@ -10,7 +10,7 @@ Master’s student in Information Systems at the University of Texas at Arlingto
 
 ## Projects:
 
-* 🏦 **[AgentBank](https://github.com/kim-mac/agentbank)** - Non-custodial wallet infrastructure and policy enforcement for AI agents on Solana + Base.
+* 🏦 **[AgentBank](https://github.com/kim-mac/agentbank)** (Won Solana hackathon) - Non-custodial wallet infrastructure and policy enforcement for AI agents on Solana + Base.
 * 🪐 **[Aiopad](https://github.com/kim-mac/Aiopad)** - Aiopad is a voice-first browser extension that lets you wake it with “Hey Orbit” to explain selected text or send it directly to Notepad with reliable realtime-plus-fallback speech recognition.
 * 📊 **[Pulseboard](https://github.com/kim-mac/Pulse)** - A real-time multi-agent platform that monitors, analyzes CSV and answers follow-up questions.
 * 🌐 **[Decentralized AI Inference Network](https://github.com/kim-mac/Decentralized-AI-Inference-Network)** - Prototype of a decentralized peer-to-peer AI inference system.
